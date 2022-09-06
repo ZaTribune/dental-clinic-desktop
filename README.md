@@ -1,10 +1,10 @@
 ## ZaTribune Dental-Clinic-Desktop V1.0-Single
 
 <p align="center">
-  <img style="margin:0 20px 0 20px" src="screenshots/logo-com.svg"
-        height="200" alt=""/>
-  <img style="margin:0 20px 0 20px" src="screenshots/logo-app.svg" 
-        height="200" alt=""/>
+  <img style="margin:0 20px 0 20px" height="200" src="screenshots/logo-com.svg"
+        width="25%" alt=""/>
+  <img style="margin:0 20px 0 20px" height="200" src="screenshots/logo-app.svg" 
+        width="25%" alt=""/>
 </p>
 
 ### Overview  
